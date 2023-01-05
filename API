@@ -1,3 +1,1 @@
-#APIs
-Token API
-Send token request before a transaction is performed. This should be done every 24 hours.
+
